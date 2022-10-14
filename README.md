@@ -9,4 +9,4 @@ Hello, my name is Peter Menzies I'm planning on eventually being a software engi
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with the Steam Controller](j01/)
