@@ -1,7 +1,7 @@
-# First Journal Entry...
 # The Satisfaction of a Steam Controller's Batteries
 ### By Peter Menzies
 ### Written October 14th 2022
+<hr>
 
 A few years ago when I was much more interested in video games on the computer Valve the company which owns one of the largest digital video game distribution stores started selling a controller for your computer. Swept up in the marketing and needing a controller for playing games in a more relaxed position I purchased one.
 
