@@ -1,2 +1,2 @@
 # First Journal Entry...
-<img src="/assets/1" alt="Photo of the Controller" height="400" />
+<img src="assets/1" alt="Photo of the Controller" height="400" />
