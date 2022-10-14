@@ -9,3 +9,4 @@
 <img src="/assets/8.gif" alt="Photo of the Controller" height="400" />
 <img src="/assets/9.jpg" alt="Photo of the Controller" height="400" />
 <img src="/assets/10.gif" alt="Photo of the Controller" height="400" />
+<img src="/assets/11.gif" alt="Photo of the Controller" height="400" />
