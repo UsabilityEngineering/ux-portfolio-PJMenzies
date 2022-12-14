@@ -10,4 +10,5 @@ Hello, my name is Peter Menzies I'm planning on eventually being a software engi
 ## UX Journal
 
 [Read about my experience with the Steam Controller](j01/)
-[Read about my experience searching for a song on Youtube Controller](j02/)
+
+[Read about my experience searching for a song on Youtube](j02/)
